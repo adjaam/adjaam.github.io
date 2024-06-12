@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adjaam.github.io/sitemap/sitemap.txt
